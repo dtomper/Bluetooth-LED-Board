@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyBluetoothBoard</string>
+
+    <string-array name="alignments">
+        <item>Left</item>
+        <item>Center</item>
+        <item>Right</item>
+    </string-array>
+
+    <string-array name="effects">
+        <item>No Effect</item>
+        <item>Print</item>
+        <item>Scroll Left</item>
+        <item>Scroll Up Left</item>
+        <item>Scroll Up</item>
+        <item>Scroll Up Right</item>
+        <item>Scroll Right</item>
+        <item>Scroll Down Right</item>
+        <item>Scroll Down</item>
+        <item>Scroll Down Left</item>
+        <item>Scan Horizontal</item>
+        <item>Scan Vertical</item>
+        <item>Wipe</item>
+        <item>Wipe Cursor</item>
+        <item>Opening Cursor</item>
+        <item>Closing Cursor</item>
+        <item>Grow Up</item>
+        <item>Grow Down</item>
+        <item>Mesh</item>
+        <item>Blinds</item>
+        <item>Opening</item>
+        <item>Closing</item>
+        <item>Random</item>
+        <item>Dissolve</item>
+        <item>Slice</item>
+    </string-array>
+</resources>
